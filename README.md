@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Hi 👋, I'm Subham Behera</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Subham Behera (Haura) </h1>
+<h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 - 📫 How to reach me **subhambehera89418@gmail.com**
 
