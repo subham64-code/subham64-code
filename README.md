@@ -1,77 +1,89 @@
-<h1 align="center">Hi 👋, I'm Subham Behera</h1>
-<h3 align="center">Frontend Developer | B.Tech CSE Student | Passionate About Building Modern Web Applications</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subham64-code&label=Profile%20views&color=0e75b6&style=flat" alt="subham64-code" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Subham%20Behera&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+<h1>Hi 👋, I'm Subham Behera</h1>
+<h3>Frontend Developer | B.Tech CSE (2023–2027) | Future Cybersecurity Professional</h3>
+
+<p>
+<a href="https://www.linkedin.com/in/subham-behera-1b0aa9336">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/subham64-code">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:subhambehera89418@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
+
+</div>
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 About Me
 
 - 🎓 B.Tech CSE Student (2023–2027)
-- 💻 Passionate Frontend Developer from India
-- 🌱 Currently learning **Advanced JavaScript, React & Data Structures**
-- 🚀 Interested in **Web Development & Cybersecurity**
-- 📊 Also exploring **Data Analytics & Python**
-- 📫 Reach me at: **subhambehera89418@gmail.com**
+- 💻 Passionate about **Frontend Development & Modern UI Design**
+- 🔐 Interested in **Cybersecurity & Ethical Hacking**
+- 📊 Exploring **Data Analytics & Python**
+- 📚 Currently learning **Advanced JavaScript, React & DSA**
+- 🎯 Goal: Crack a Top Tech Internship & become Industry-Ready
 
 ---
 
-### 🌐 Connect with Me
+## 🛠️ Tech Stack
 
-<p align="left">
-<a href="https://www.linkedin.com/in/subham-behera-1b0aa9336" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
-<a href="https://youtube.com/@subhambehera-fc9rg" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" />
-</a>
-</p>
+### 💻 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
----
+### ⚙️ Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### 🛠️ Languages and Tools
-
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-</p>
+### 🗄️ Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=subham64-code&show_icons=true&theme=tokyonight" alt="github stats" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham64-code&layout=compact&theme=tokyonight" alt="top languages" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=subham64-code&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=subham64-code&theme=tokyonight&hide_border=true" />
 
----
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham64-code&layout=compact&theme=tokyonight&hide_border=true"/>
 
-### 🎯 Goals for 2026
-
-- ✔️ Build 5+ Full Stack Projects
-- ✔️ Master Data Structures & Algorithms
-- ✔️ Contribute to Open Source
-- ✔️ Crack a Top Tech Internship
+</div>
 
 ---
 
-### ⚡ Fun Fact
+## 🎯 2026 Roadmap
 
-I love turning ideas into real-world web applications and continuously upgrading my tech skills 🚀
+| Goal | Status |
+|------|--------|
+| Build 5+ Full Stack Projects | 🔄 In Progress |
+| Master DSA | 🔄 Improving Daily |
+| Learn Cybersecurity Fundamentals | 📋 Planned |
+| Contribute to Open Source | 📋 Planned |
 
 ---
 
-⭐️ From [subham64-code](https://github.com/subham64-code)
+## 💡 Philosophy
+
+<div align="center">
+
+### 🚀 Learn. Build. Secure. Repeat.
+
+</div>
+
+---
+
+⭐ From [subham64-code](https://github.com/subham64-code)
